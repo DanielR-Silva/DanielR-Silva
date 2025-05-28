@@ -1,6 +1,6 @@
 <h1>Bem Vindo!! Eu sou Daniel.</h1>
 
-- 👤 **Este é meu perfil de projetos da faculdade**
+- 👤 **Este é meu perfil de projetos pessoais**
 - 🎓 Cursando **Analise e Desenvolvimento de Sistemas na SpTech.**
 <div>
   Entre em contato:
